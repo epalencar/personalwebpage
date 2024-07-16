@@ -1,0 +1,50 @@
+html{
+    background-color: teal;
+    color: black;
+}
+.name {
+    font-size: 35pt;
+    color:rgb(182, 177, 199);
+    font-family: cursive;
+    font-weight: lighter;    
+}
+
+nav {
+    font-family:'Times New Roman', Times, serif;
+    background-color:steelblue;
+    height: 100pt;
+    align-items: center;
+    position: fixed;
+    display: flex;
+    padding: 15pt;
+    justify-content: space-between;
+    left: 0;
+    right: 0;
+    background-image: url(./images/lightbulb2.jpg);
+    background-blend-mode:luminosity;
+    
+    
+}
+
+main{
+    padding: 112pt 24pt;
+}
+
+.current_page{
+    text-underline-position: below;
+    border-bottom: 1pt solid lightgray;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 20pt;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 8pt;
+}
+
+footer {
+    font-family:'Times New Roman', Times, serif;
+    background-color:steelblue;
+    height: 100pt;
+}
