@@ -3,10 +3,11 @@ html{
     color: black;
 }
 .name {
-    font-size: 35pt;
+    font-size: 60pt;
     color:rgb(182, 177, 199);
     font-family: cursive;
-    font-weight: lighter;    
+    font-weight: lighter;
+    text-align: center;    
 }
 
 nav {
